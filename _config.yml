@@ -2,3 +2,4 @@ theme:
 title: book blog
 markdown: kramdown
 description: simple projects & comics
+permalink: /blog/:year/:month/:day/:title
