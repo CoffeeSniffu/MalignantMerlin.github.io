@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>website stuff</title>
+		<title>book blog</title>
 	</head>
 	<body>
 		<nav>
