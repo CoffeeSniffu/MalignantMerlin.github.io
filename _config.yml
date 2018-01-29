@@ -1,4 +1,4 @@
-theme: <!---jekyll-theme-midnight--->
+theme:
 title: book blog
 markdown: kramdown
 description: simple projects & comics
