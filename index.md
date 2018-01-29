@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: book blog
 ---
 <div class="blurb">
         		<h1>This website is meant to show some simple projects.</h1>
