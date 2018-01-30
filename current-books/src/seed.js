@@ -33,12 +33,12 @@ window.Seed = (function () {
       },
       {
         id: 4,
-        title: 'Haught or Naught',
-        description: 'High-minded or absent-minded? You decide.',
+        title: 'The Demon Hell Is Earth',
+        description: 'Andrew Constant -writer, Brad Walker -illustrator.',
         url: '#',
         votes: generateVoteCount(),
         submitterAvatarUrl: 'src/images/avatars/molly.png',
-        productImageUrl: 'src/images/products/image-yellow.png',
+        productImageUrl: 'src/images/products/thedemonhellisearth.jpg',
       },
     ];
   
