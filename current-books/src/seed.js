@@ -1,6 +1,6 @@
 window.Seed = (function () {
     function generateVoteCount() {
-      return Math.floor();
+      return Math.floor((Math.random() * 50) + 15);
     }
   
     const products = [
