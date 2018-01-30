@@ -1,10 +1,53 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>book blog</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+ <!-- Bootstrap files and My custom stylesheet  -->
+    <link rel="stylesheet" href="./vendor/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+    <script src="./vendor/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./src/style.css" />
+
+    <!-- React, ReactDOM and Babel -->
+    <script src="./vendor/babel-standalone.js"></script>
+    <script src="./vendor/react.js"></script>
+    <script src="./vendor/react-dom.js"></script>
+
+    <!-- seed.js is a collection of data for the products to be displayed -->
+    <script src="./js/seed.js"></script>
+
+    <!-- app.js is where we will write most of our code to create the application -->
+    <script type="text/babel" data-plugins="transform-class-properties" src="./js/app.js"></script>
+        </head>
 <h1>{{ page.title }}</h1>
 
 <body>
-    <div id="content">
+    <nav>
+    		<ul>
+        		<li><a href="/">home</a></li>
+	        	<li><a href="/current-books">current books</a></li>
+        		<li><a href="/blog">blog</a></li>
+    		</ul>
+		</nav>
+	<div class="container">
+			
+			{{ content }}
+			
+			</div><!---/.container--->
+    
+     <div id="content">
 
     </div>
-</body>
+			<footer>
+	    		<ul>
+        		<li><a href="refboarder@hotmail.com">email</a></li>
+        		<li><a href="https://github.com/malignantmerlin">github.com/malignantmerlin</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
