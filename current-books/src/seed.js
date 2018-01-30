@@ -7,7 +7,7 @@ window.Seed = (function () {
       {
         id: 1,
         title: 'Doomsday Clock',
-        description: 'On-demand sand castle construction expertise.',
+        description: 'Geoff Johns -writer, Gary Frank -illustrator.',
         url: '#',
         votes: generateVoteCount(),
         submitterAvatarUrl: 'src/images/avatars/daniel.jpg',
