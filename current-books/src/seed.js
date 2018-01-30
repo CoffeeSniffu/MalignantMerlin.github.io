@@ -6,12 +6,12 @@ window.Seed = (function () {
     const products = [
       {
         id: 1,
-        title: 'Yellow Pail',
+        title: 'Doomsday Clock',
         description: 'On-demand sand castle construction expertise.',
         url: '#',
         votes: generateVoteCount(),
         submitterAvatarUrl: 'src/images/avatars/daniel.jpg',
-        productImageUrl: 'src/images/products/image-aqua.png',
+        productImageUrl: 'src/images/products/doomsdayclock.jpg',
       },
       {
         id: 2,
