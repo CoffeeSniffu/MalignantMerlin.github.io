@@ -1,4 +1,4 @@
-div.extra span{display:none;}
+div.extra{display:none;}
 nav ul li a, footer ul li a{color: #999;}
 nav, footer {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
