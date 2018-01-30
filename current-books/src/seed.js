@@ -8,7 +8,7 @@ window.Seed = (function () {
         id: 1,
         title: 'Doomsday Clock',
         description: 'Geoff Johns -writer, Gary Frank -illustrator.',
-        url: '#',
+        url: '<a target="_blank" href="//malignantmerlin.github.io/current-books/src/images/products/doomsdayclock.jpg"</a>',
         votes: generateVoteCount(),
         <!-- submitterAvatarUrl: 'src/images/avatars/daniel.jpg', -->
         productImageUrl: 'src/images/products/doomsdayclock.jpg',
@@ -17,7 +17,7 @@ window.Seed = (function () {
         id: 2,
         title: 'Raven Daughter Of Darkness',
         description: 'Marv Wolfman -writer, Pop Mhan -illustrator.',
-        url: '#',
+        url: '<a target="_blank" href="//malignantmerlin.github.io/current-books/src/images/products/ravendaughterofdarkness.jpg"</a>',
         votes: generateVoteCount(),
         <!-- submitterAvatarUrl: 'src/images/avatars/kristy.png', -->
         productImageUrl: 'src/images/products/ravendaughterofdarkness.jpg',
@@ -26,7 +26,7 @@ window.Seed = (function () {
         id: 3,
         title: 'Darth Vader',
         description: 'Charles Soule -writer, Giusuppe Camuncoli -illustrator.',
-        url: '#',
+        url: '<a target="_blank" href="//malignantmerlin.github.io/current-books/src/images/products/darthvader.jpg"</a>',
         votes: generateVoteCount(),
         <!-- submitterAvatarUrl: 'src/images/avatars/veronika.jpg', -->
         productImageUrl: 'src/images/products/darthvader.jpg',
@@ -35,7 +35,7 @@ window.Seed = (function () {
         id: 4,
         title: 'The Demon Hell Is Earth',
         description: 'Andrew Constant -writer, Brad Walker -illustrator.',
-        url: '#',
+        url: '<a target="_blank" href="//malignantmerlin.github.io/current-books/src/images/products/thedemonhellisearth.jpg"</a>',
         votes: generateVoteCount(),
         <!-- submitterAvatarUrl: 'src/images/avatars/molly.png', -->
         productImageUrl: 'src/images/products/thedemonhellisearth.jpg',
