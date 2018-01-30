@@ -46,7 +46,7 @@ class ProductList extends React.Component {
 
         return (
             <div className="container">
-                <h1>Popular products</h1>
+                <h1>which title are you most interested in?</h1>
                 <hr />
                 {productComponents}
             </div>
