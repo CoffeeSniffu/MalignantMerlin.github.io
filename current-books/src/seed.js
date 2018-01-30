@@ -9,7 +9,6 @@ window.Seed = (function () {
         title: 'Doomsday Clock',
         description: 'Geoff Johns -writer, Gary Frank -illustrator.',
         url: 'src/images/products/doomsdayclock.jpg',
-        target: '_blank',
         votes: generateVoteCount(),
         <!-- submitterAvatarUrl: 'src/images/avatars/daniel.jpg', -->
         productImageUrl: 'src/images/products/doomsdayclock.jpg',
